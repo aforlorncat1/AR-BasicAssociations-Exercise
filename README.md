@@ -221,7 +221,7 @@ We've briefly looked at the methods generated when we declare a belongs to assoc
 
 
 ## Conclusion
-Active Record associations are going to play a big role in our applications as we move through Dev Bootcamp, and the belongs to association is one of the major association types.  We need to be familiar with it:  both how to declare the association and how to employ the methods provided to us when we make the declaration.
+Active Record associations are going to play a big role in our applications as we move through Recode, and the belongs to association is one of the major association types.  We need to be familiar with it:  both how to declare the association and how to employ the methods provided to us when we make the declaration.
 
 In declaring the association, we should be familiar with the basic syntax.  But, before we can declare the association, we need to be able to identify where declaring a belongs to association is possible.  Do we remember on which table the foreign key should exist?  Also, we should understand the conventions around naming involved in declaring associations.  There will be times when we need or want to break convention, and we'll need to know how to configure our associations.  What are the conventions Active Record expects when we declare a belongs to association?
 
